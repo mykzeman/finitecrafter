@@ -7,7 +7,7 @@
 // Please check out the original video and support The Coding Sloth on YouTube!
 // With the update to the video description, you are incentivised to join the infinite craft discord server. https://discord.com/invite/NSMut3Wx3Y.
 
-
+// View the README file for more information.
 // Simulate drag and drop
 function simulateDragAndDrop(element, startX, startY, targetX, targetY, steps = 10) {
   // Helper function to create and trigger mouse events

@@ -1,0 +1,18 @@
+ Infinite craft bot for a web-based crafting game
+ Original code by The Coding Sloth,with help from ChatGPT: https://www.youtube.com/watch?v=g-U2st6-MZI , Video published 1st January 2025
+ Recompiled by Mykal Mayne (Mykzeman), 5th December 2025 
+
+ THIS WORK IS NOT AFFILIATED WITH THE CODING SLOTH OR NEAL AGARWAL IN ANY WAY. 
+
+ I wrote this code by investigating the code snippets from the video above and adapting them to work with the current version of the game. I DID NOT COPY AND PASTE AS THERE WAS NO CODE TO BEGIN WITH.
+
+ Please check out the original video and support The Coding Sloth on YouTube!
+ With the update to the video description, you are incentivised to join the infinite craft discord server. https://discord.com/invite/NSMut3Wx3Y.
+
+ This code is not licensed,however it is appreciated if you credit The Coding Sloth and myself Mykal Mayne (Mykzeman) if you use this code or parts of it in your own projects.It is also acknowledged that this code is NOT for commercial use.
+
+ There are some known issues with this code:
+ - The clear button requires confirmation to clear the crafting area, which is not currently handled in the code.
+ - The code clears all items after processing each combination, which may not be the desired behavior.
+ 
+ You can fork this code and make your own improvements if you wish.
