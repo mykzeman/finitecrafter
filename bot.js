@@ -97,13 +97,14 @@ async function processItems(itemWrappers) {
     for (let i = 0; i < items.length; i++) {
       // Loop through second item
     for (let j = 0; j < items.length; j++) {
-      // Skip if same item or already processed
-      if(processedPairs.has(`${i},${j}`)) {
-        continue;
+      if ((i >0 && j>0 )&& processedPairs.has(`${i},${j}`)) {
+        console.log(`Combination of items ${i} and ${j} already processed. Skipping.`);
+        continue; // Skip already processed pairs
       }
       // Mark pair as processed
         processedPairs.add(`${i},${j}`);
         saveProcessedPairs();
+
         // Process the combination
 
         await processCombination(items[i], items[j], 500, 100);
