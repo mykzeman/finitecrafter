@@ -1,4 +1,4 @@
- Infinite craft bot for a web-based crafting game
+ Infinite Craft bot
  Original code by The Coding Sloth,with help from ChatGPT: https://www.youtube.com/watch?v=g-U2st6-MZI , Video published 1st January 2025
  Recompiled by Mykal Mayne (Mykzeman), 5th December 2025 
 
@@ -16,3 +16,7 @@
  - The code clears all items after processing each combination, which may not be the desired behavior.
  
  You can fork this code and make your own improvements if you wish.
+ How to use:
+    1. Open Infinite Craft in your web browser.
+    2. Open the browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect") and navigate to the console.
+    3. Copy and paste the code from bot.js into the terminal and press Enter to run it.

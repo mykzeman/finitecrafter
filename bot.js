@@ -1,4 +1,4 @@
-// Infinite craft bot for a web-based crafting game
+// Infinite Craft bot
 // Original code by The Coding Sloth,with help from ChatGPT: https://www.youtube.com/watch?v=g-U2st6-MZI , Video published 1st January 2025
 // Recompiled by Mykal Mayne (Mykzeman), 5th December 2025 
 
